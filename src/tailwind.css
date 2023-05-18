@@ -669,3 +669,23 @@ video {
   --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
+
+.outline {
+  outline-style: solid;
+}
+
+.hover\:bg-yellow2:hover {
+  background-color: #ff9900ff;
+}
+
+.hover\:bg-black2:hover {
+  background-color: #666666ff;
+}
+
+.hover\:bg-opacity-0:hover {
+  --tw-bg-opacity: 0;
+}
+
+.hover\:bg-opacity-20:hover {
+  --tw-bg-opacity: 0.2;
+}

@@ -39,7 +39,7 @@ function Card() {
                     </button>
                 </div>
                 <div className='flex justify-center'>
-                    <button className="bg-yellow2 px-2 py-1 rounded-md text-sm">View more</button>
+                    <button className="bg-yellow2 px-2 py-1 rounded-md text-sm shadow-md">View more</button>
                 </div>
             </div>
         </section>

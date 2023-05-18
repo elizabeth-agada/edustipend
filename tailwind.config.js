@@ -6,9 +6,9 @@ module.exports = {
   theme: {
     extend: {},
     colors: {
-      'yellow2' :  '#ff9900ff',
-      'black2'  :  '#666666ff', 
-      'white2'  :  '#f0ede9', 
+      "yellow2": '#ff9900ff',
+      "black2": '#666666ff', 
+      "white2": '#f0ede9', 
      },
   },
   plugins: [],
